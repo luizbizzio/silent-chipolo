@@ -4,13 +4,13 @@
 
 **A simple, step-by-step photo guide to removing the internal sound disc.**
 
-<img src="images/01-chipolo-loop.jpg" alt="Blue Chipolo LOOP tracker" width="390">
+<img src="images/01-chipolo-loop.jpg" alt="Blue Chipolo LOOP tracker" width="450">
 
 </div>
 
 ---
 
-My **Chipolo LOOP** sometimes beeped for no clear reason, even at night. I opened it and removed the small sound disc inside. This guide shows what I did, with photos of the parts you need to check before closing the case.
+Some Chipolo LOOP users have reported unexpected beeping, even at night. This guide shows how to remove the internal sound disc, with step-by-step photos and the small parts to check before closing the case.
 
 > [!WARNING]
 > **Removing the disc disables all sound**, including the ring feature and audible unwanted-tracking safety alerts. Opening the case may also affect the warranty and water resistance. Only modify a device you own. Never use a tracker to follow someone without their knowledge and consent.
